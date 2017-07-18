@@ -1,4 +1,4 @@
-# Classification_Challenge
+# Challenge: Classification
 
 Thank you for taking the time to walk through my code. This work is the copyright of the author, William Schram, and is intended solely for the purposes of displaying machine learning and python development skills. It is my intention with is file to convey that I can clean a data set, generate new features, apply a machine learning model, tune hyper-parameters, plot graphs, and generate exports.
 
